@@ -1,0 +1,16 @@
+# Ignore mọi thứ không có đuôi
+*
+!*/
+!*.*
+*.exe
+*.json
+.vscode/
+.cache/
+__pycache__/
+node_modules/
+
+# Giữ lại các file không đuôi quan trọng
+!Makefile
+!Dockerfile
+!LICENSE
+!README
